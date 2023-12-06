@@ -1,0 +1,2912 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{nishida_66_knee}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f87c2e4c1eb7fb59d25ee6dc4b07254d}{%
+           family={{Nishida}},
+           familyi={N\bibinitperiod},
+           given={Atsuhiro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{fullhash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{bibnamehash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{authorbibnamehash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{authornamehash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{authorfullhash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\jgr}
+      \field{month}{12}
+      \field{number}{23}
+      \field{title}{{Formation of plasmapause, or magnetospheric plasma knee, by the combined action of magnetospheric convection and plasma escape from the tail}}
+      \field{volume}{71}
+      \field{year}{1966}
+      \field{pages}{5669\bibrangedash 5679}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1029/JZ071i023p05669
+      \endverb
+      \keyw{Particles and Fields in the Earth's Magnetosphere: Magnetospheric configuration,Particles and Fields in the Earth's Magnetosphere: Magnetic tail,Particles and Fields in the Earth's Magnetosphere: Plasma motion,convection,or circulation}
+    \endentry
+    \entry{nishida_68_coherence}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f87c2e4c1eb7fb59d25ee6dc4b07254d}{%
+           family={{Nishida}},
+           familyi={N\bibinitperiod},
+           given={Atsuhiro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{fullhash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{bibnamehash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{authorbibnamehash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{authornamehash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{authorfullhash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\jgr}
+      \field{month}{9}
+      \field{number}{17}
+      \field{title}{{Coherence of geomagnetic DP 2 fluctuations with interplanetary magnetic variations}}
+      \field{volume}{73}
+      \field{year}{1968}
+      \field{pages}{5549\bibrangedash 5559}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1029/JA073i017p05549
+      \endverb
+      \keyw{Particles and Fields in Interplanetary Space: Electromagnetic radiation,Particles and Fields in Interplanetary Space: Solar-wind magnetic fields,Particles and Fields in the Earth's Magnetosphere: Interaction between solar wind and magnetosphere,Particles and Fields in the Earth's Magnetosphere: Short-period (less than 1 day) variations of magnetic field,Particles and Fields in the Earth's Magnetosphere: Electric fields}
+    \endentry
+    \entry{nishida_68_fluctuations}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f87c2e4c1eb7fb59d25ee6dc4b07254d}{%
+           family={{Nishida}},
+           familyi={N\bibinitperiod},
+           given={Atsuhiro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{fullhash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{bibnamehash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{authorbibnamehash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{authornamehash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \strng{authorfullhash}{f87c2e4c1eb7fb59d25ee6dc4b07254d}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\jgr}
+      \field{month}{3}
+      \field{number}{5}
+      \field{title}{{Geomagnetic D$_{p}$ 2 fluctuations and associated magnetospheric phenomena}}
+      \field{volume}{73}
+      \field{year}{1968}
+      \field{pages}{1795\bibrangedash 1803}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1029/JA073i005p01795
+      \endverb
+      \keyw{Particles and Fields in the Earth's Magnetosphere: Interaction between solar wind and magnetosphere,Particles and Fields in the Earth's Magnetosphere: Short-period (less than 1 day) variations of magnetic field,Particles and Fields in the Earth's Magnetosphere: Electric fields,Particles and Fields in the Earth's Magnetosphere: Plasma motion,convection,or circulation,Particles and Fields in the Ionosphere: High-latitude ionospheric currents}
+    \endentry
+    \entry{nishida_andobayashi_67}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b59376ad6edffca5536c799a1a1f63c4}{%
+           family={{Obayashi}},
+           familyi={O\bibinitperiod},
+           given={Tatsuzo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f87c2e4c1eb7fb59d25ee6dc4b07254d}{%
+           family={{Nishida}},
+           familyi={N\bibinitperiod},
+           given={Atsuhiro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f97b2b8b5f426302f97ecd649b8a40e0}
+      \strng{fullhash}{f97b2b8b5f426302f97ecd649b8a40e0}
+      \strng{bibnamehash}{f97b2b8b5f426302f97ecd649b8a40e0}
+      \strng{authorbibnamehash}{f97b2b8b5f426302f97ecd649b8a40e0}
+      \strng{authornamehash}{f97b2b8b5f426302f97ecd649b8a40e0}
+      \strng{authorfullhash}{f97b2b8b5f426302f97ecd649b8a40e0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\ssr}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{{Large-Scale Electric Field in the Magnetosphere}}
+      \field{volume}{8}
+      \field{year}{1968}
+      \field{pages}{3\bibrangedash 31}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1007/BF00362569
+      \endverb
+    \endentry
+    \entry{1969intro_to_iono_p}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=24d3b930e9753c2b7318f0def9a1599c}{%
+           family={{Rishbeth}},
+           familyi={R\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71f1ff525a612fbcb407b503c4a9ba9e}{%
+           family={{Garriott}},
+           familyi={G\bibinitperiod},
+           given={Owen\bibnamedelima K.},
+           giveni={O\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{96cef92cf0ff1777e40fd35952a68bc4}
+      \strng{fullhash}{96cef92cf0ff1777e40fd35952a68bc4}
+      \strng{bibnamehash}{96cef92cf0ff1777e40fd35952a68bc4}
+      \strng{authorbibnamehash}{96cef92cf0ff1777e40fd35952a68bc4}
+      \strng{authornamehash}{96cef92cf0ff1777e40fd35952a68bc4}
+      \strng{authorfullhash}{96cef92cf0ff1777e40fd35952a68bc4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Introduction to ionospheric physics}}
+      \field{year}{1969}
+    \endentry
+    \entry{Hepner_b}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2ff3fb3d663e4e836538a9b55a55fa9e}{%
+           family={{Heppner}},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d1ae35dd7e86296a2667fd1113be17c1}{%
+           family={{Dyer}},
+           familyi={D\bibinitperiod},
+           given={E.\bibnamedelimi R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ff3fb3d663e4e836538a9b55a55fa9e}
+      \strng{fullhash}{2ff3fb3d663e4e836538a9b55a55fa9e}
+      \strng{bibnamehash}{2ff3fb3d663e4e836538a9b55a55fa9e}
+      \strng{authorbibnamehash}{2ff3fb3d663e4e836538a9b55a55fa9e}
+      \strng{authornamehash}{2ff3fb3d663e4e836538a9b55a55fa9e}
+      \strng{authorfullhash}{2ff3fb3d663e4e836538a9b55a55fa9e}
+      \strng{editorbibnamehash}{d1ae35dd7e86296a2667fd1113be17c1}
+      \strng{editornamehash}{d1ae35dd7e86296a2667fd1113be17c1}
+      \strng{editorfullhash}{d1ae35dd7e86296a2667fd1113be17c1}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Critical Problems of Magnetospheric Physics}
+      \field{month}{1}
+      \field{title}{{Electric Fields in the Magnetosphere}}
+      \field{year}{1972}
+      \field{pages}{107}
+      \range{pages}{1}
+    \endentry
+    \entry{Hepner_a}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2ff3fb3d663e4e836538a9b55a55fa9e}{%
+           family={{Heppner}},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2ff3fb3d663e4e836538a9b55a55fa9e}
+      \strng{fullhash}{2ff3fb3d663e4e836538a9b55a55fa9e}
+      \strng{bibnamehash}{2ff3fb3d663e4e836538a9b55a55fa9e}
+      \strng{authorbibnamehash}{2ff3fb3d663e4e836538a9b55a55fa9e}
+      \strng{authornamehash}{2ff3fb3d663e4e836538a9b55a55fa9e}
+      \strng{authorfullhash}{2ff3fb3d663e4e836538a9b55a55fa9e}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\jgr}
+      \field{month}{9}
+      \field{number}{25}
+      \field{title}{{Polar-cap electric field distributions related to the interplanetary magnetic field direction}}
+      \field{volume}{77}
+      \field{year}{1972}
+      \field{pages}{4877\bibrangedash 4887}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1029/JA077i025p04877
+      \endverb
+      \keyw{Interplanetary Space,Magnetosphere,Solar Physics and Astrophysics: Magnetic fields,Particles and Fields in Interplanetary Space: Solar-wind magnetic fields,Particles and Fields in the Earth's Magnetosphere: Electric fields,Particles and Fields in the Ionosphere: Electric fields}
+    \endentry
+    \entry{blanc_ddyn}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b97f5f70c1ff76059db1ceb0285b47ab}{%
+           family={{Blanc}},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96e901bc3c66cd88d624e763ac147a02}{%
+           family={{Richmond}},
+           familyi={R\bibinitperiod},
+           given={A.\bibnamedelimi D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{675daf22d84786458a6ad6de86c9856d}
+      \strng{fullhash}{675daf22d84786458a6ad6de86c9856d}
+      \strng{bibnamehash}{675daf22d84786458a6ad6de86c9856d}
+      \strng{authorbibnamehash}{675daf22d84786458a6ad6de86c9856d}
+      \strng{authornamehash}{675daf22d84786458a6ad6de86c9856d}
+      \strng{authorfullhash}{675daf22d84786458a6ad6de86c9856d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\jgr}
+      \field{month}{4}
+      \field{number}{A4}
+      \field{title}{{The ionospheric disturbance dynamo}}
+      \field{volume}{85}
+      \field{year}{1980}
+      \field{pages}{1669\bibrangedash 1686}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1029/JA085iA04p01669
+      \endverb
+      \keyw{Dynamo Theory,Ionospheric Disturbances,Thermosphere,Winds Aloft,Atmospheric Electricity,Atmospheric Models,Diurnal Variations,Magnetic Storms,Northern Hemisphere,Geophysics}
+    \endentry
+    \entry{mayaud1980}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e11ef81edf725dbdb92d2bc4f0c8b0a7}{%
+           family={{Mayaud}},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi N.},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e11ef81edf725dbdb92d2bc4f0c8b0a7}
+      \strng{fullhash}{e11ef81edf725dbdb92d2bc4f0c8b0a7}
+      \strng{bibnamehash}{e11ef81edf725dbdb92d2bc4f0c8b0a7}
+      \strng{authorbibnamehash}{e11ef81edf725dbdb92d2bc4f0c8b0a7}
+      \strng{authornamehash}{e11ef81edf725dbdb92d2bc4f0c8b0a7}
+      \strng{authorfullhash}{e11ef81edf725dbdb92d2bc4f0c8b0a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geophysical Monograph Series}
+      \field{month}{1}
+      \field{title}{{Derivation, Meaning, and Use of Geomagnetic Indices}}
+      \field{volume}{22}
+      \field{year}{1980}
+      \field{pages}{607}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1029/GM022
+      \endverb
+    \endentry
+    \entry{blanc_caudal}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b97f5f70c1ff76059db1ceb0285b47ab}{%
+           family={{Blanc}},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9904d5e384e327b7b9191627302959e6}{%
+           family={{Caudal}},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dedb152856f956a08e75431d197ca2e1}
+      \strng{fullhash}{dedb152856f956a08e75431d197ca2e1}
+      \strng{bibnamehash}{dedb152856f956a08e75431d197ca2e1}
+      \strng{authorbibnamehash}{dedb152856f956a08e75431d197ca2e1}
+      \strng{authornamehash}{dedb152856f956a08e75431d197ca2e1}
+      \strng{authorfullhash}{dedb152856f956a08e75431d197ca2e1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annales Geophysicae}
+      \field{month}{2}
+      \field{title}{{The spatial distribution of magnetospheric convection electric fieldsat ionospheric altitudes: a review. II. Theories.}}
+      \field{volume}{3}
+      \field{year}{1985}
+      \field{pages}{27\bibrangedash 42}
+      \range{pages}{16}
+      \keyw{Convection,Earth Magnetosphere,Electric Fields,Ionospheric Currents,Magnetically Trapped Particles,Auroral Zones,Magnetic Field Configurations,Magnetohydrodynamics,Mathematical Models,Ring Currents,Spatial Distribution,Geophysics,Earth Magnetosphere:Electric Fields}
+    \endentry
+    \entry{Pudovkin}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c732f72b4c48d20f2fd1c58322f0d0a9}{%
+           family={{Bobova}},
+           familyi={B\bibinitperiod},
+           given={V.\bibnamedelimi P.},
+           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0657d82acf071129e35f9dcc86dbbec3}{%
+           family={{Vladimirskii}},
+           familyi={V\bibinitperiod},
+           given={B.\bibnamedelimi M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=571cef26b0ad0a14e99fe4d7fca3bda9}{%
+           family={{Pudovkin}},
+           familyi={P\bibinitperiod},
+           given={M.\bibnamedelimi I.},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{df6927428a98d7a35839c0d1bc4455a2}
+      \strng{fullhash}{df6927428a98d7a35839c0d1bc4455a2}
+      \strng{bibnamehash}{df6927428a98d7a35839c0d1bc4455a2}
+      \strng{authorbibnamehash}{df6927428a98d7a35839c0d1bc4455a2}
+      \strng{authornamehash}{df6927428a98d7a35839c0d1bc4455a2}
+      \strng{authorfullhash}{df6927428a98d7a35839c0d1bc4455a2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Izvestiya Ordena Trudovogo Krasnogo Znameni Krymskoj Astrofizicheskoj Observatorii}
+      \field{month}{1}
+      \field{title}{{The presence in the AE index of 160-minute pulsations evidently caused by solar pulsations}}
+      \field{volume}{71}
+      \field{year}{1985}
+      \field{pages}{19\bibrangedash 25}
+      \range{pages}{7}
+      \keyw{Geomagnetic Pulsations,Indexes (Ratios),Ionospheric Electron Density,Polar Regions,Solar Oscillations,Solar Terrestrial Interactions,Annual Variations,Solar Flux,Solar Position,Ultraviolet Radiation,Solar Physics}
+    \endentry
+    \entry{l_handbook_geof_sw_Geom_field}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ccfd30394e154ed42979c9877ba24c48}{%
+           family={Knecht},
+           familyi={K\bibinitperiod},
+           given={D.J},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a7a482004966822d4ea01432e9418fa}{%
+           family={B.M},
+           familyi={B\bibinitperiod},
+           given={.\bibnamedelimi Shuman},
+           giveni={.\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ed by A. S. Jursa, Boston: Air Force Geophysics Laborator}%
+      }
+      \strng{namehash}{28c2c0fa5523d5fc23e49be5521a651c}
+      \strng{fullhash}{28c2c0fa5523d5fc23e49be5521a651c}
+      \strng{bibnamehash}{28c2c0fa5523d5fc23e49be5521a651c}
+      \strng{authorbibnamehash}{28c2c0fa5523d5fc23e49be5521a651c}
+      \strng{authornamehash}{28c2c0fa5523d5fc23e49be5521a651c}
+      \strng{authorfullhash}{28c2c0fa5523d5fc23e49be5521a651c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{HANDBOOK OF GEOPHYSICS AND THE SPACE ENVIROMENT, chapter 4, THE GEOMAGNETIC FIELD}
+      \field{year}{1985}
+    \endentry
+    \entry{diagrama_ddyn}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0c009aa994035697ab27e7c32f6bbef8}{%
+           family={{Mazaudier}},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a9aaaca095cbba00de33bcf87b2c49f}{%
+           family={{Venkateswaran}},
+           familyi={V\bibinitperiod},
+           given={S.\bibnamedelimi V.},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0da221e24ef9499445d646e80b1bcc3d}
+      \strng{fullhash}{0da221e24ef9499445d646e80b1bcc3d}
+      \strng{bibnamehash}{0da221e24ef9499445d646e80b1bcc3d}
+      \strng{authorbibnamehash}{0da221e24ef9499445d646e80b1bcc3d}
+      \strng{authornamehash}{0da221e24ef9499445d646e80b1bcc3d}
+      \strng{authorfullhash}{0da221e24ef9499445d646e80b1bcc3d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annales Geophysicae}
+      \field{month}{8}
+      \field{title}{{Delayed ionospheric effects of the geomagnetic storms of March 22, 1979 studied by the sixth co-ordinated data analysis workshop (CDAW-6)}}
+      \field{volume}{8}
+      \field{year}{1990}
+      \field{pages}{511\bibrangedash 518}
+      \range{pages}{8}
+      \keyw{Data Processing,Ionospheric Disturbances,Magnetic Storms,Atmospheric Heating,Auroras,Ionospheric Currents,Two Dimensional Models}
+    \endentry
+    \entry{Denisenko}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=89b6cde2ce64b3f6d8296f469eba537d}{%
+           family={{Denisenko}},
+           familyi={D\bibinitperiod},
+           given={V.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8af0281b5e710a237ceb9509f31f43e3}{%
+           family={{Zamai}},
+           familyi={Z\bibinitperiod},
+           given={S.\bibnamedelimi S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=baeec6b860e8f55b07c69c5282a2c704}{%
+           family={{Kitaev}},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b4a138af7d16b08f0082ca0e660073f}{%
+           family={{Matveenkov}},
+           familyi={M\bibinitperiod},
+           given={I.\bibnamedelimi T.},
+           giveni={I\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb47363caab05d84a104640880741c3e}{%
+           family={{Pivovarov}},
+           familyi={P\bibinitperiod},
+           given={V.\bibnamedelimi G.},
+           giveni={V\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4c28b479f39fe4829a7b2be1a8186d4e}
+      \strng{fullhash}{8f30c2a3c8e6a64dead023eb3f6dfbe1}
+      \strng{bibnamehash}{4c28b479f39fe4829a7b2be1a8186d4e}
+      \strng{authorbibnamehash}{4c28b479f39fe4829a7b2be1a8186d4e}
+      \strng{authornamehash}{4c28b479f39fe4829a7b2be1a8186d4e}
+      \strng{authorfullhash}{8f30c2a3c8e6a64dead023eb3f6dfbe1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geomagnetism and Aeronomy}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{{System of ionospheric currents excited by a magnetospheric generator in the boundary layer}}
+      \field{volume}{32}
+      \field{year}{1992}
+      \field{pages}{142\bibrangedash 145}
+      \range{pages}{4}
+      \keyw{Earth Magnetosphere,Electric Potential,Interplanetary Magnetic Fields,Ionospheric Currents,Magnetosphere-Ionosphere Coupling,Solar Wind,Polar Cusps,Solar Terrestrial Interactions,Geophysics}
+    \endentry
+    \entry{hargreaves_1992}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f52aa02763ef2ee58adf8a1e8fbd24a}{%
+           family={Hargreaves},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima Keith},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{6f52aa02763ef2ee58adf8a1e8fbd24a}
+      \strng{fullhash}{6f52aa02763ef2ee58adf8a1e8fbd24a}
+      \strng{bibnamehash}{6f52aa02763ef2ee58adf8a1e8fbd24a}
+      \strng{authorbibnamehash}{6f52aa02763ef2ee58adf8a1e8fbd24a}
+      \strng{authornamehash}{6f52aa02763ef2ee58adf8a1e8fbd24a}
+      \strng{authorfullhash}{6f52aa02763ef2ee58adf8a1e8fbd24a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Cambridge Atmospheric and Space Science Series}
+      \field{title}{The Solar-Terrestrial Environment: An Introduction to Geospace - the Science of the Terrestrial Upper Atmosphere, Ionosphere, and Magnetosphere}
+      \field{year}{1992}
+      \verb{doi}
+      \verb 10.1017/CBO9780511628924
+      \endverb
+    \endentry
+    \entry{gonzalestgm}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=5bfbcb07d15036404e127111619859fd}{%
+           family={{Gonzalez}},
+           familyi={G\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=565287a4da5edc6cefc717019427f27e}{%
+           family={{Joselyn}},
+           familyi={J\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63aa04f74b4bc935c9dfc2b6d2c8bd2c}{%
+           family={{Kamide}},
+           familyi={K\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bb09fa886c00062bcfa36df0c0878fb}{%
+           family={{Kroehl}},
+           familyi={K\bibinitperiod},
+           given={H.\bibnamedelimi W.},
+           giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02e40b7a03b9ca710d7f4c3f8d7a7c6c}{%
+           family={{Rostoker}},
+           familyi={R\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc57f1800888805afa5456754a2f757b}{%
+           family={{Tsurutani}},
+           familyi={T\bibinitperiod},
+           given={B.\bibnamedelimi T.},
+           giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a54cacdcbc50ddfc5244bba9bb234f9}{%
+           family={{Vasyliunas}},
+           familyi={V\bibinitperiod},
+           given={V.\bibnamedelimi M.},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{17af3a8ff9f9972e1771047a4fa28420}
+      \strng{fullhash}{e108d357bcbabeeb4cb03503dc63ba51}
+      \strng{bibnamehash}{17af3a8ff9f9972e1771047a4fa28420}
+      \strng{authorbibnamehash}{17af3a8ff9f9972e1771047a4fa28420}
+      \strng{authornamehash}{17af3a8ff9f9972e1771047a4fa28420}
+      \strng{authorfullhash}{e108d357bcbabeeb4cb03503dc63ba51}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{\jgr}
+      \field{month}{4}
+      \field{number}{A4}
+      \field{title}{{What is a geomagnetic storm?}}
+      \field{volume}{99}
+      \field{year}{1994}
+      \field{pages}{5771\bibrangedash 5792}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1029/93JA02867
+      \endverb
+      \keyw{Interplanetary Magnetic Fields,Magnetic Storms,Ring Currents,Solar Terrestrial Interactions,Earth Magnetosphere,Geophysics,Solar Wind,Geophysics,Magnetospheric Physics: Storms and substorms,Magnetospheric Physics: Auroral phenomena,Interplanetary Physics: Interplanetary magnetic fields,Magnetospheric Physics: Energetic particles,trapped}
+    \endentry
+    \entry{iaga_guide}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a5f29b5b2459703154b53c799b877504}{%
+           family={Jankowski},
+           familyi={J\bibinitperiod},
+           given={Jerzy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ac748f54bc32fa43625512d938a7327}{%
+           family={Sucksdorff},
+           familyi={S\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{49de1117821431da8b7679d80e7cdf2e}
+      \strng{fullhash}{49de1117821431da8b7679d80e7cdf2e}
+      \strng{bibnamehash}{49de1117821431da8b7679d80e7cdf2e}
+      \strng{authorbibnamehash}{49de1117821431da8b7679d80e7cdf2e}
+      \strng{authornamehash}{49de1117821431da8b7679d80e7cdf2e}
+      \strng{authorfullhash}{49de1117821431da8b7679d80e7cdf2e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IAGA guide for magnetic measurements and observatory practice}
+      \field{year}{1996}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:107045138
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:107045138
+      \endverb
+    \endentry
+    \entry{gombosi_1998}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c66cbe7a4f3e2f80f0f4c8992bdc2f5c}{%
+           family={Gombosi},
+           familyi={G\bibinitperiod},
+           given={Tamas\bibnamedelima I.},
+           giveni={T\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{c66cbe7a4f3e2f80f0f4c8992bdc2f5c}
+      \strng{fullhash}{c66cbe7a4f3e2f80f0f4c8992bdc2f5c}
+      \strng{bibnamehash}{c66cbe7a4f3e2f80f0f4c8992bdc2f5c}
+      \strng{authorbibnamehash}{c66cbe7a4f3e2f80f0f4c8992bdc2f5c}
+      \strng{authornamehash}{c66cbe7a4f3e2f80f0f4c8992bdc2f5c}
+      \strng{authorfullhash}{c66cbe7a4f3e2f80f0f4c8992bdc2f5c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Cambridge Atmospheric and Space Science Series}
+      \field{title}{Physics of the Space Environment}
+      \field{year}{1998}
+      \verb{doi}
+      \verb 10.1017/CBO9780511529474
+      \endverb
+    \endentry
+    \entry{book_analysis_Method_multiSp_data}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2261c3c88d72271ccddafcf4c8452825}{%
+           family={{Paschmann}},
+           familyi={P\bibinitperiod},
+           given={Götz},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d668f2ff08c48a82cff87c087cdf12e}{%
+           family={{Daly}},
+           familyi={D\bibinitperiod},
+           given={Patrick\bibnamedelima W.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c81af0db02c539899f6271f83deed824}
+      \strng{fullhash}{c81af0db02c539899f6271f83deed824}
+      \strng{bibnamehash}{c81af0db02c539899f6271f83deed824}
+      \strng{authorbibnamehash}{c81af0db02c539899f6271f83deed824}
+      \strng{authornamehash}{c81af0db02c539899f6271f83deed824}
+      \strng{authorfullhash}{c81af0db02c539899f6271f83deed824}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ISSI Scientific Reports Series}
+      \field{month}{1}
+      \field{title}{{Analysis Methods for Multi-Spacecraft Data. ISSI Scientific Reports Series SR-001, ESA/ISSI, Vol. 1. ISBN 1608-280X, 1998}}
+      \field{volume}{1}
+      \field{year}{1998}
+      \keyw{Magnetosphere,space plasmas,multi-spacecraft,data analysis tools,Space physics}
+    \endentry
+    \entry{guide_wavelet_routines}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=47a087c2f28e5e405d0ae487053ae901}{%
+           family={{Torrence}},
+           familyi={T\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0eacc45f7cb1cb820e9538b93e6d8add}{%
+           family={{Compo}},
+           familyi={C\bibinitperiod},
+           given={Gilbert\bibnamedelima P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{119c57a61a9340da368c0c73c8b47a99}
+      \strng{fullhash}{119c57a61a9340da368c0c73c8b47a99}
+      \strng{bibnamehash}{119c57a61a9340da368c0c73c8b47a99}
+      \strng{authorbibnamehash}{119c57a61a9340da368c0c73c8b47a99}
+      \strng{authornamehash}{119c57a61a9340da368c0c73c8b47a99}
+      \strng{authorfullhash}{119c57a61a9340da368c0c73c8b47a99}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulletin of the American Meteorological Society}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{A Practical Guide to Wavelet Analysis.}}
+      \field{volume}{79}
+      \field{year}{1998}
+      \field{pages}{61\bibrangedash 78}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1175/1520-0477(1998)079<0061:APGTWA>2.0.CO;2
+      \endverb
+    \endentry
+    \entry{l_basic_spaceplasmaphysic}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=91e652d9edf6848f755aed60e662202c}{%
+           family={Baumjohann},
+           familyi={B\bibinitperiod},
+           given={Wolfganga},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d8f45c1efc4c887d9b30a0aa037826a}{%
+           family={Treumann},
+           familyi={T\bibinitperiod},
+           given={Rudolf\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Imperial College Press, 57 Shelton Street Covent Garden London WC2H 9HE}%
+      }
+      \strng{namehash}{3859da8756f1f6a2a6635766e3f7b542}
+      \strng{fullhash}{3859da8756f1f6a2a6635766e3f7b542}
+      \strng{bibnamehash}{3859da8756f1f6a2a6635766e3f7b542}
+      \strng{authorbibnamehash}{3859da8756f1f6a2a6635766e3f7b542}
+      \strng{authornamehash}{3859da8756f1f6a2a6635766e3f7b542}
+      \strng{authorfullhash}{3859da8756f1f6a2a6635766e3f7b542}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1-86094-079-X}
+      \field{title}{Basic Space Plasma Physics}
+      \field{year}{1999}
+    \endentry
+    \entry{gic_intro}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=24ea883098c1c15a0640d27682e50cec}{%
+           family={Pirjola},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{24ea883098c1c15a0640d27682e50cec}
+      \strng{fullhash}{24ea883098c1c15a0640d27682e50cec}
+      \strng{bibnamehash}{24ea883098c1c15a0640d27682e50cec}
+      \strng{authorbibnamehash}{24ea883098c1c15a0640d27682e50cec}
+      \strng{authornamehash}{24ea883098c1c15a0640d27682e50cec}
+      \strng{authorfullhash}{24ea883098c1c15a0640d27682e50cec}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Plasma Science}
+      \field{number}{6}
+      \field{title}{Geomagnetically induced currents during magnetic storms}
+      \field{volume}{28}
+      \field{year}{2000}
+      \field{pages}{1867\bibrangedash 1873}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/27.902215
+      \endverb
+    \endentry
+    \entry{MEXART2003}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=3a69d5b027e197edccdcf8ce2a2bdd2c}{%
+           family={{Pérez-Enrı́quez}},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=f48b2c28f695575c62d6fcc4e51e776d}{%
+           family={{Kotsarenko}},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b02bd415f56de9909355f7da35223c88}
+      \strng{fullhash}{b02bd415f56de9909355f7da35223c88}
+      \strng{bibnamehash}{b02bd415f56de9909355f7da35223c88}
+      \strng{authorbibnamehash}{b02bd415f56de9909355f7da35223c88}
+      \strng{authornamehash}{b02bd415f56de9909355f7da35223c88}
+      \strng{authorfullhash}{b02bd415f56de9909355f7da35223c88}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EGS - AGU - EUG Joint Assembly}
+      \field{eid}{2923}
+      \field{month}{4}
+      \field{series}{EGS - AGU - EUG Joint Assembly}
+      \field{title}{{IPS data of the Mexican Array Radio Telescope (MEXART) corrected for ionospheric scintillation and geomagnetic activity}}
+      \field{year}{2003}
+      \field{pages}{2923}
+      \range{pages}{1}
+    \endentry
+    \entry{MEXART2005}{inproceedings}{}
+      \name{author}{12}{}{%
+        {{un=1,uniquepart=given,hash=5bf4df82f9a5a461004de8cab1d77ab1}{%
+           family={{Gonzalez-Esparza}},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=7f6458974712ada12afef85febbcb211}{%
+           family={{Carrillo}},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b71dd651498063a433a67d33179fde15}{%
+           family={{Andrade}},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1328d0b6446e40e783d2305098295ec7}{%
+           family={{Jeyakumar}},
+           familyi={J\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24dc90fbea5eea77ae2911080e665d73}{%
+           family={{Ananthakrishnan}},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cfaf258e67988782c7b6b7ec8be647b}{%
+           family={{Praveenkumar}},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=680ef830c04d65bab34b90e098609d21}{%
+           family={{Sankarasubramanian}},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e552204de7f09e159a314b3fb80fd12}{%
+           family={{Sureshkumar}},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f96bbdf41234f5802808bc34c76bcfd6}{%
+           family={{Sierra}},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6af3b50ced4f67131bb5f1565ee1649d}{%
+           family={{Vazquez}},
+           familyi={V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=461e11858cf99018203ff47f69652cdc}{%
+           family={{Perez-Enriquez}},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af682dd4907a78372b8d916e1708a42c}{%
+           family={{Kurtz}},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a171956ac07d0593afe83bf44e694735}
+      \strng{fullhash}{70ebb44a69e80476ba60c7263aca241e}
+      \strng{bibnamehash}{a171956ac07d0593afe83bf44e694735}
+      \strng{authorbibnamehash}{a171956ac07d0593afe83bf44e694735}
+      \strng{authornamehash}{a171956ac07d0593afe83bf44e694735}
+      \strng{authorfullhash}{70ebb44a69e80476ba60c7263aca241e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AGU Fall Meeting Abstracts}
+      \field{eid}{SH51C-1218}
+      \field{month}{12}
+      \field{title}{{MEXART Measurements of Radio Sources. Interplanetary Scintillation Array in Mexico}}
+      \field{volume}{2005}
+      \field{year}{2005}
+      \field{pages}{SH51C\bibrangedash 1218}
+      \range{pages}{-1}
+      \keyw{2100 INTERPLANETARY PHYSICS,2102 Corotating streams,2109 Discontinuities (7811),2139 Interplanetary shocks,2194 Instruments and techniques}
+    \endentry
+    \entry{gic_czech}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=63ef1dbb335c5c81aeb087c1a0db4310}{%
+           family={{Hejda}},
+           familyi={H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d6ab8f3a8f0c3b1f90b247baaf564dd}{%
+           family={{Bochnı́ček}},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{18413b919252fe0854c05754e21fbf21}
+      \strng{fullhash}{18413b919252fe0854c05754e21fbf21}
+      \strng{bibnamehash}{18413b919252fe0854c05754e21fbf21}
+      \strng{authorbibnamehash}{18413b919252fe0854c05754e21fbf21}
+      \strng{authornamehash}{18413b919252fe0854c05754e21fbf21}
+      \strng{authorfullhash}{18413b919252fe0854c05754e21fbf21}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annales Geophysicae}
+      \field{month}{11}
+      \field{number}{9}
+      \field{title}{{Geomagnetically induced pipe-to-soil voltages in the Czech oil pipelines during October-November 2003}}
+      \field{volume}{23}
+      \field{year}{2005}
+      \field{pages}{3089\bibrangedash 3093}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.5194/angeo-23-3089-2005
+      \endverb
+    \endentry
+    \entry{ddyn2005}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c05c4fa7e402e05ff8f0038297778d9b}{%
+           family={{Le Huy}},
+           familyi={L\bibinitperiod},
+           given={Minh},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=0042484bae14b96ecfc2b08324a220e3}{%
+           family={{Amory-Mazaudier}},
+           familyi={A\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod},
+           givenun=2}}%
+      }
+      \strng{namehash}{f6981fe099b0f213d7091ade933d5a26}
+      \strng{fullhash}{f6981fe099b0f213d7091ade933d5a26}
+      \strng{bibnamehash}{f6981fe099b0f213d7091ade933d5a26}
+      \strng{authorbibnamehash}{f6981fe099b0f213d7091ade933d5a26}
+      \strng{authornamehash}{f6981fe099b0f213d7091ade933d5a26}
+      \strng{authorfullhash}{f6981fe099b0f213d7091ade933d5a26}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{A10301}
+      \field{journaltitle}{Journal of Geophysical Research (Space Physics)}
+      \field{month}{10}
+      \field{number}{A10}
+      \field{title}{{Magnetic signature of the ionospheric disturbance dynamo at equatorial latitudes: ``D$_{dyn}$''}}
+      \field{volume}{110}
+      \field{year}{2005}
+      \field{pages}{A10301}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1029/2004JA010578
+      \endverb
+      \keyw{Geomagnetism and Paleomagnetism: Environmental magnetism,Ionosphere: Current systems (2721),Ionosphere: Equatorial ionosphere,Ionosphere: Ionosphere/atmosphere interactions (0335),Earth's magnetism,equatorial magnetic disturbance,ionospheric disturbance dynamo process,atmospheric wind effect}
+    \endentry
+    \entry{LS_red_noise}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=07dcc3f7c86e9976b84a043abf58abc2}{%
+           family={{Vaughan}},
+           familyi={V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{07dcc3f7c86e9976b84a043abf58abc2}
+      \strng{fullhash}{07dcc3f7c86e9976b84a043abf58abc2}
+      \strng{bibnamehash}{07dcc3f7c86e9976b84a043abf58abc2}
+      \strng{authorbibnamehash}{07dcc3f7c86e9976b84a043abf58abc2}
+      \strng{authornamehash}{07dcc3f7c86e9976b84a043abf58abc2}
+      \strng{authorfullhash}{07dcc3f7c86e9976b84a043abf58abc2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{\aap}
+      \field{month}{2}
+      \field{title}{{A simple test for periodic signals in red noise}}
+      \field{volume}{431}
+      \field{year}{2005}
+      \field{pages}{391\bibrangedash 403}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1051/0004-6361:20041453
+      \endverb
+      \verb{eprint}
+      \verb astro-ph/0412697
+      \endverb
+      \keyw{methods: data analysis,methods: statistical,X-rays: general,X-rays: galaxies,Astrophysics}
+    \endentry
+    \entry{gic_2}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=303bbff7e0c51a3589f41906a8439a3a}{%
+           family={{Vodyannikov}},
+           familyi={V\bibinitperiod},
+           given={V.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5b70dca5e2e55fdd3476ae5bf6da4b1}{%
+           family={{Gordienko}},
+           familyi={G\bibinitperiod},
+           given={G.\bibnamedelimi I.},
+           giveni={G\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f84755e3314e59e89cbd253168abe38}{%
+           family={{Nechaev}},
+           familyi={N\bibinitperiod},
+           given={S.\bibnamedelimi A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8858e595d3ff6f828c5196a7419e306}{%
+           family={{Sokolova}},
+           familyi={S\bibinitperiod},
+           given={O.\bibnamedelimi I.},
+           giveni={O\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2da894a982fc9b7ca994c3246e2623fe}{%
+           family={{Khomutov}},
+           familyi={K\bibinitperiod},
+           given={S.\bibnamedelimi Yu.},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48e7fee4c805634878f4382f1747466c}{%
+           family={{Yakovets}},
+           familyi={Y\bibinitperiod},
+           given={A.\bibnamedelimi F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8dd0c6c6e16830126c7656ffed731dc1}
+      \strng{fullhash}{118ab4d26e621dd351ff3412b72c94cb}
+      \strng{bibnamehash}{8dd0c6c6e16830126c7656ffed731dc1}
+      \strng{authorbibnamehash}{8dd0c6c6e16830126c7656ffed731dc1}
+      \strng{authornamehash}{8dd0c6c6e16830126c7656ffed731dc1}
+      \strng{authorfullhash}{118ab4d26e621dd351ff3412b72c94cb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geomagnetism and Aeronomy}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{{Geomagnetically induced currents in power lines according to data on geomagnetic variations}}
+      \field{volume}{46}
+      \field{year}{2006}
+      \field{pages}{809\bibrangedash 813}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1134/S0016793206060168
+      \endverb
+    \endentry
+    \entry{ddyn_diag2}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c05c4fa7e402e05ff8f0038297778d9b}{%
+           family={{Le Huy}},
+           familyi={L\bibinitperiod},
+           given={Minh},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=0042484bae14b96ecfc2b08324a220e3}{%
+           family={{Amory-Mazaudier}},
+           familyi={A\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod},
+           givenun=2}}%
+      }
+      \strng{namehash}{f6981fe099b0f213d7091ade933d5a26}
+      \strng{fullhash}{f6981fe099b0f213d7091ade933d5a26}
+      \strng{bibnamehash}{f6981fe099b0f213d7091ade933d5a26}
+      \strng{authorbibnamehash}{f6981fe099b0f213d7091ade933d5a26}
+      \strng{authornamehash}{f6981fe099b0f213d7091ade933d5a26}
+      \strng{authorfullhash}{f6981fe099b0f213d7091ade933d5a26}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{A02312}
+      \field{journaltitle}{Journal of Geophysical Research (Space Physics)}
+      \field{month}{2}
+      \field{number}{A2}
+      \field{title}{{Planetary magnetic signature of the storm wind disturbance dynamo currents: D$_{dyn}$}}
+      \field{volume}{113}
+      \field{year}{2008}
+      \field{pages}{A02312}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1029/2007JA012686
+      \endverb
+      \keyw{Magnetospheric Physics: Field-aligned currents and current systems (2409),Space Weather: Ionospheric storms (2441),Ionosphere: Equatorial ionosphere,Magnetospheric Physics: Solar wind/magnetosphere interactions,Magnetospheric Physics: Magnetic storms and substorms (7954)}
+    \endentry
+    \entry{angeoddyn}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=f947bf5b4085ff07c9c3eea671a6927b}{%
+           family={{Zaka}},
+           familyi={Z\bibinitperiod},
+           given={K.\bibnamedelimi Z.},
+           giveni={K\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f71af6df2ec404c2cd1e41194946a17}{%
+           family={{Kobea}},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a021d2a43328d1a56840c22ddcaf0660}{%
+           family={{Assamoi}},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f6abbd597740fba7ee86980f361f1da}{%
+           family={{Obrou}},
+           familyi={O\bibinitperiod},
+           given={O.\bibnamedelimi K.},
+           giveni={O\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f818aef84e7f274258bc77fa38cb8ead}{%
+           family={{Doumbia}},
+           familyi={D\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5836e82656f467cabeb07611113fe2f3}{%
+           family={{Boka}},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ba9c4d16eb910669db28a92e989e1a8}{%
+           family={{Adohi}},
+           familyi={A\bibinitperiod},
+           given={B.\bibnamedelimi J.\bibnamedelimi -P.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6767b8a9aaadf7579e7e75423865224}{%
+           family={{Mene}},
+           familyi={M\bibinitperiod},
+           given={N.\bibnamedelimi M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eff860b009a3f2b75e085dac18e8f7a9}
+      \strng{fullhash}{efe0cb0ce723f9175b6f7b2f76486024}
+      \strng{bibnamehash}{eff860b009a3f2b75e085dac18e8f7a9}
+      \strng{authorbibnamehash}{eff860b009a3f2b75e085dac18e8f7a9}
+      \strng{authornamehash}{eff860b009a3f2b75e085dac18e8f7a9}
+      \strng{authorfullhash}{efe0cb0ce723f9175b6f7b2f76486024}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annales Geophysicae}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{{Latitudinal profile of the ionospheric disturbance dynamo magnetic signature: comparison with the DP2 magnetic disturbance}}
+      \field{volume}{27}
+      \field{year}{2009}
+      \field{pages}{3523\bibrangedash 3536}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.5194/angeo-27-3523-2009
+      \endverb
+    \endentry
+    \entry{MEXART_iono_dist}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{un=2,uniquepart=given,hash=6e6de41788ef8aaf1592f27dfce5f3d3}{%
+           family={{Rodriguez-Martinez}},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=461e11858cf99018203ff47f69652cdc}{%
+           family={{Perez-Enriquez}},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56fc993397afb999d8ba8fbbe3c2c616}{%
+           family={{Carrillo-Vargas}},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80258331898aeea2eede66d7a99d4ee1}{%
+           family={{Lopez-Montes}},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f73c40f7317bfc8255e93ccc78ed5cd2}{%
+           family={{Araujo-Pradere}},
+           familyi={A\bibinitperiod},
+           given={E.\bibnamedelimi A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acf9af00f58746a99ef4799d6b242bdc}{%
+           family={{Casillas-Perez}},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=753fffe056705a0cbb1c156b3f4e9ab5}{%
+           family={{Lopez Cruz-Abeyro}},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{62dcc0e87bf11c940fec3645dedf217f}
+      \strng{fullhash}{ade7de246b5dcd04c72626ea403434ab}
+      \strng{bibnamehash}{62dcc0e87bf11c940fec3645dedf217f}
+      \strng{authorbibnamehash}{62dcc0e87bf11c940fec3645dedf217f}
+      \strng{authornamehash}{62dcc0e87bf11c940fec3645dedf217f}
+      \strng{authorfullhash}{ade7de246b5dcd04c72626ea403434ab}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AGU Fall Meeting Abstracts}
+      \field{eid}{SH13B-1969}
+      \field{month}{12}
+      \field{title}{{Ionospheric Disturbance Effects on IPS signals from MEXART}}
+      \field{volume}{2011}
+      \field{year}{2011}
+      \field{pages}{SH13B\bibrangedash 1969}
+      \range{pages}{-1}
+      \keyw{2435 IONOSPHERE / Ionospheric disturbances,5729 PLANETARY SCIENCES: FLUID PLANETS / Ionospheres,7823 SPACE PLASMA PHYSICS / Ionization processes,7944 SPACE WEATHER / Ionospheric effects on radio waves}
+    \endentry
+    \entry{mario_rodriguez2011}{article}{}
+      \name{author}{7}{ul=2}{%
+        {{un=2,uniquepart=given,hash=647896ddd94e27e3ec32f00dbfebcb23}{%
+           family={Rodriguez-Martinez},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=461e11858cf99018203ff47f69652cdc}{%
+           family={Perez-Enriquez},
+           familyi={P\bibinithyphendelim E\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56fc993397afb999d8ba8fbbe3c2c616}{%
+           family={Carrillo-Vargas},
+           familyi={C\bibinithyphendelim V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=befd2768f8b4225acf1c0a192ef46cad}{%
+           family={López-Montes},
+           familyi={L\bibinithyphendelim M\bibinitperiod},
+           given={Rebeca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6f858af311ebee797f7301e9b508e04}{%
+           family={Araujo-Pradere},
+           familyi={A\bibinithyphendelim P\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=677b4ada3bd6a5e0d0ebb945bd3c430c}{%
+           family={Casillas},
+           familyi={C\bibinitperiod},
+           given={Gilberto},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05a0dc3965ec666198ea381c2b142104}{%
+           family={Lopez\bibnamedelima Cruz-Abeyro},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinithyphendelim A\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a7bd7db69e0690f1ab0c22a0df85a5da}
+      \strng{fullhash}{4203c5b2586aabe733cbc594b32927d8}
+      \strng{bibnamehash}{a7bd7db69e0690f1ab0c22a0df85a5da}
+      \strng{authorbibnamehash}{a7bd7db69e0690f1ab0c22a0df85a5da}
+      \strng{authornamehash}{a7bd7db69e0690f1ab0c22a0df85a5da}
+      \strng{authorfullhash}{4203c5b2586aabe733cbc594b32927d8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AGU Fall Meeting Abstracts}
+      \field{month}{12}
+      \field{title}{Ionospheric Disturbance Effects on IPS signals from MEXART}
+      \field{year}{2011}
+      \field{pages}{1969\bibrangedash}
+      \range{pages}{-1}
+    \endentry
+    \entry{MEXART_iono_dist2}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=56fc993397afb999d8ba8fbbe3c2c616}{%
+           family={{Carrillo-Vargas}},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a69d5b027e197edccdcf8ce2a2bdd2c}{%
+           family={{Pérez-Enrı́quez}},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6c0deadead00ef528cc4e06af8ac45b}{%
+           family={{Rodrı́guez-Martı́nez}},
+           familyi={R\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67c2c829b79ab8bf5dbf8c62c11a3bc7}{%
+           family={{López-Montes}},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d6a62365a0cbcd897b552881f0fbe17}{%
+           family={{Casillas-Pérez}},
+           familyi={C\bibinitperiod},
+           given={G.\bibnamedelimi A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f73c40f7317bfc8255e93ccc78ed5cd2}{%
+           family={{Araujo-Pradere}},
+           familyi={A\bibinitperiod},
+           given={E.\bibnamedelimi A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eaac5fccb246b2d240406bf5390b477c}
+      \strng{fullhash}{ad6c8999a02ab7163182e6f166715713}
+      \strng{bibnamehash}{eaac5fccb246b2d240406bf5390b477c}
+      \strng{authorbibnamehash}{eaac5fccb246b2d240406bf5390b477c}
+      \strng{authornamehash}{eaac5fccb246b2d240406bf5390b477c}
+      \strng{authorfullhash}{ad6c8999a02ab7163182e6f166715713}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Space Research}
+      \field{month}{6}
+      \field{number}{11}
+      \field{title}{{Ionospheric disturbances detected by MEXART}}
+      \field{volume}{49}
+      \field{year}{2012}
+      \field{pages}{1570\bibrangedash 1580}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.asr.2011.12.017
+      \endverb
+    \endentry
+    \entry{baseline_Gjerloev}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9f184b8d7ac5ae1cde9ef05b4fff45e0}{%
+           family={{Gjerloev}},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f184b8d7ac5ae1cde9ef05b4fff45e0}
+      \strng{fullhash}{9f184b8d7ac5ae1cde9ef05b4fff45e0}
+      \strng{bibnamehash}{9f184b8d7ac5ae1cde9ef05b4fff45e0}
+      \strng{authorbibnamehash}{9f184b8d7ac5ae1cde9ef05b4fff45e0}
+      \strng{authornamehash}{9f184b8d7ac5ae1cde9ef05b4fff45e0}
+      \strng{authorfullhash}{9f184b8d7ac5ae1cde9ef05b4fff45e0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{A09213}
+      \field{journaltitle}{Journal of Geophysical Research (Space Physics)}
+      \field{month}{9}
+      \field{number}{A9}
+      \field{title}{{The SuperMAG data processing technique}}
+      \field{volume}{117}
+      \field{year}{2012}
+      \field{pages}{A09213}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1029/2012JA017683
+      \endverb
+      \keyw{Computational Geophysics: Data analysis: algorithms and implementation,Computational Geophysics: Data management,Ionosphere: Current systems (2721),Magnetospheric Physics: Field-aligned currents and current systems (2409),Magnetospheric Physics: Magnetic storms and substorms (4305,7954)}
+    \endentry
+    \entry{lopez-montes}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=befd2768f8b4225acf1c0a192ef46cad}{%
+           family={{López-Montes}},
+           familyi={L\bibinitperiod},
+           given={Rebeca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=2,uniquepart=given,hash=85522a1378b36176cfdcddc54b1f961d}{%
+           family={{Pérez-Enrı́quez}},
+           familyi={P\bibinitperiod},
+           given={Román},
+           giveni={R\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=cd245cbaf619139d52f41790405213b9}{%
+           family={{Araujo-Pradere}},
+           familyi={A\bibinitperiod},
+           given={Eduardo\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{680c83bfe614bbe1fc31864a74ff5582}
+      \strng{fullhash}{680c83bfe614bbe1fc31864a74ff5582}
+      \strng{bibnamehash}{680c83bfe614bbe1fc31864a74ff5582}
+      \strng{authorbibnamehash}{680c83bfe614bbe1fc31864a74ff5582}
+      \strng{authornamehash}{680c83bfe614bbe1fc31864a74ff5582}
+      \strng{authorfullhash}{680c83bfe614bbe1fc31864a74ff5582}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Space Research}
+      \field{month}{4}
+      \field{number}{7}
+      \field{title}{{The impact of large solar events on the total electron content of the ionosphere at mid latitudes}}
+      \field{volume}{49}
+      \field{year}{2012}
+      \field{pages}{1167\bibrangedash 1179}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.asr.2012.01.008
+      \endverb
+    \endentry
+    \entry{BARTELS_kp}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7680b06444f3b00493900008781c90ea}{%
+           family={Bartels},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a5a4d9c33f586c869fcee8fae7f40731}{%
+           family={{International Council of Scientific Unions Comité Spécial de l'Année Géophysique Internationale (CSAGI)}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{7680b06444f3b00493900008781c90ea}
+      \strng{fullhash}{7680b06444f3b00493900008781c90ea}
+      \strng{bibnamehash}{7680b06444f3b00493900008781c90ea}
+      \strng{authorbibnamehash}{7680b06444f3b00493900008781c90ea}
+      \strng{authornamehash}{7680b06444f3b00493900008781c90ea}
+      \strng{authorfullhash}{7680b06444f3b00493900008781c90ea}
+      \strng{editorbibnamehash}{a5a4d9c33f586c869fcee8fae7f40731}
+      \strng{editornamehash}{a5a4d9c33f586c869fcee8fae7f40731}
+      \strng{editorfullhash}{a5a4d9c33f586c869fcee8fae7f40731}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Geomagnetism}
+      \field{isbn}{978-1-4832-1304-0}
+      \field{series}{Annals of The International Geophysical Year}
+      \field{title}{III - THE GEOMAGNETIC MEASURES FOR THE TIME-VARIATIONS OF SOLAR CORPUSCULAR RADIATION, DESCRIBED FOR USE IN CORRELATION STUDIES IN OTHER GEOPHYSICAL FIELDS}
+      \field{volume}{4}
+      \field{year}{2013}
+      \field{pages}{227\bibrangedash 236}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-1-4832-1304-0.50007-5
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B9781483213040500075
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B9781483213040500075
+      \endverb
+    \endentry
+    \entry{vanKampt}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b974a9e1f8e70223da85dd15ec5d5df}{%
+           family={{van de Kamp}},
+           familyi={v\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b974a9e1f8e70223da85dd15ec5d5df}
+      \strng{fullhash}{6b974a9e1f8e70223da85dd15ec5d5df}
+      \strng{bibnamehash}{6b974a9e1f8e70223da85dd15ec5d5df}
+      \strng{authorbibnamehash}{6b974a9e1f8e70223da85dd15ec5d5df}
+      \strng{authornamehash}{6b974a9e1f8e70223da85dd15ec5d5df}
+      \strng{authorfullhash}{6b974a9e1f8e70223da85dd15ec5d5df}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geoscientific Instrumentation, Methods and Data Systems}
+      \field{month}{11}
+      \field{number}{2}
+      \field{title}{{Harmonic quiet-day curves as magnetometer baselines for ionospheric current analyses}}
+      \field{volume}{2}
+      \field{year}{2013}
+      \field{pages}{289\bibrangedash 304}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.5194/gi-2-289-2013
+      \endverb
+    \endentry
+    \entry{mario_rodriguez2014}{article}{}
+      \name{author}{7}{ul=2}{%
+        {{un=2,uniquepart=given,hash=647896ddd94e27e3ec32f00dbfebcb23}{%
+           family={Rodriguez-Martinez},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=5895cd0d5a66049150312a20acdc0948}{%
+           family={Pérez-Enríquez},
+           familyi={P\bibinithyphendelim E\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56fc993397afb999d8ba8fbbe3c2c616}{%
+           family={Carrillo-Vargas},
+           familyi={C\bibinithyphendelim V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=befd2768f8b4225acf1c0a192ef46cad}{%
+           family={López-Montes},
+           familyi={L\bibinithyphendelim M\bibinitperiod},
+           given={Rebeca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6f858af311ebee797f7301e9b508e04}{%
+           family={Araujo-Pradere},
+           familyi={A\bibinithyphendelim P\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=677b4ada3bd6a5e0d0ebb945bd3c430c}{%
+           family={Casillas},
+           familyi={C\bibinitperiod},
+           given={Gilberto},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05a0dc3965ec666198ea381c2b142104}{%
+           family={Lopez\bibnamedelima Cruz-Abeyro},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinithyphendelim A\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{65b85391ab99b93423081d0e7eca2e20}
+      \strng{fullhash}{462cb257373848abc63ec3e873d1ea90}
+      \strng{bibnamehash}{65b85391ab99b93423081d0e7eca2e20}
+      \strng{authorbibnamehash}{65b85391ab99b93423081d0e7eca2e20}
+      \strng{authornamehash}{65b85391ab99b93423081d0e7eca2e20}
+      \strng{authorfullhash}{462cb257373848abc63ec3e873d1ea90}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Solar Physics}
+      \field{month}{02}
+      \field{title}{Ionospheric Disturbances and their Impact on IPS Using MEXART Observations}
+      \field{volume}{289}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1007/s11207-014-0496-8
+      \endverb
+    \endentry
+    \entry{gic_brazil}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=886d2d03250173a3923fcfe274613e3e}{%
+           family={{da Silva Barbosa}},
+           familyi={d\bibinitperiod},
+           given={Cleiton},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=777900e5595d8c753964080742ad6427}{%
+           family={{Hartmann}},
+           familyi={H\bibinitperiod},
+           given={Gelvam\bibnamedelima André},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86e6fde13336d94b949595a29d1337d4}{%
+           family={{Pinheiro}},
+           familyi={P\bibinitperiod},
+           given={Katia\bibnamedelima Jasbinschek},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e1fa66ce49073cc6519a942a32a88123}
+      \strng{fullhash}{e1fa66ce49073cc6519a942a32a88123}
+      \strng{bibnamehash}{e1fa66ce49073cc6519a942a32a88123}
+      \strng{authorbibnamehash}{e1fa66ce49073cc6519a942a32a88123}
+      \strng{authornamehash}{e1fa66ce49073cc6519a942a32a88123}
+      \strng{authorfullhash}{e1fa66ce49073cc6519a942a32a88123}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Space Research}
+      \field{month}{2}
+      \field{number}{4}
+      \field{title}{{Numerical modeling of geomagnetically induced currents in a Brazilian transmission line}}
+      \field{volume}{55}
+      \field{year}{2015}
+      \field{pages}{1168\bibrangedash 1179}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.asr.2014.11.008
+      \endverb
+      \keyw{Geomagnetically induced currents,Magnetic storms,GIC in Brazil}
+    \endentry
+    \entry{schrijver2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04ff44e843a02c4d305ccf0e9d3d6d13}{%
+           family={{Schrijver}},
+           familyi={S\bibinitperiod},
+           given={C.\bibnamedelimi J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{04ff44e843a02c4d305ccf0e9d3d6d13}
+      \strng{fullhash}{04ff44e843a02c4d305ccf0e9d3d6d13}
+      \strng{bibnamehash}{04ff44e843a02c4d305ccf0e9d3d6d13}
+      \strng{authorbibnamehash}{04ff44e843a02c4d305ccf0e9d3d6d13}
+      \strng{authornamehash}{04ff44e843a02c4d305ccf0e9d3d6d13}
+      \strng{authorfullhash}{04ff44e843a02c4d305ccf0e9d3d6d13}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{physics.space-ph}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Space Weather}
+      \field{month}{9}
+      \field{title}{{Socio-Economic Hazards and Impacts of Space Weather: The Important Range Between Mild and Extreme}}
+      \field{volume}{13}
+      \field{year}{2015}
+      \field{pages}{524\bibrangedash 528}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1002/2015SW001252
+      \endverb
+      \verb{eprint}
+      \verb 1507.08730
+      \endverb
+      \keyw{space weather}
+    \endentry
+    \entry{dp2PPEF}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=db5db8a7f4695be6cfb669a8f9db71be}{%
+           family={{Wei}},
+           familyi={W\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6186a2270221cdb5ddfa2882306d5f6}{%
+           family={{Zhao}},
+           familyi={Z\bibinitperiod},
+           given={Biqiang},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9329c526ce7a2f58316f833464498691}{%
+           family={{Li}},
+           familyi={L\bibinitperiod},
+           given={Guozhu},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1bbc15e0192e1f482bc7d50cb9ec4a1a}{%
+           family={{Wan}},
+           familyi={W\bibinitperiod},
+           given={Weixing},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0eed2cdf0e7bec7933fc3336fd096ab0}
+      \strng{fullhash}{7d7d60cbd540dc881588a80df0fd70e0}
+      \strng{bibnamehash}{0eed2cdf0e7bec7933fc3336fd096ab0}
+      \strng{authorbibnamehash}{0eed2cdf0e7bec7933fc3336fd096ab0}
+      \strng{authornamehash}{0eed2cdf0e7bec7933fc3336fd096ab0}
+      \strng{authorfullhash}{7d7d60cbd540dc881588a80df0fd70e0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science Bulletin}
+      \field{month}{4}
+      \field{number}{8}
+      \field{title}{{Electric field penetration into Earth's ionosphere: a brief review for 2000{–}2013}}
+      \field{volume}{60}
+      \field{year}{2015}
+      \field{pages}{748\bibrangedash 761}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s11434-015-0749-4
+      \endverb
+    \endentry
+    \entry{l_russell}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=33dec18549159f0cefb255093163ef1c}{%
+           family={C.T\bibnamedelima Russell},
+           familyi={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={R.\bibnamedelimi J.\bibnamedelimi Strangeway},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0,
+           suffix={J.\bibnamedelimi G.\bibnamedelimi Luhman},
+           suffixi={J\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge university press. University Pringting House, Cambridge CB2 (BS, United Kingdom}%
+      }
+      \strng{namehash}{33dec18549159f0cefb255093163ef1c}
+      \strng{fullhash}{33dec18549159f0cefb255093163ef1c}
+      \strng{bibnamehash}{33dec18549159f0cefb255093163ef1c}
+      \strng{authorbibnamehash}{33dec18549159f0cefb255093163ef1c}
+      \strng{authornamehash}{33dec18549159f0cefb255093163ef1c}
+      \strng{authorfullhash}{33dec18549159f0cefb255093163ef1c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-107-09882-4}
+      \field{title}{SPACE PHYSICS AN INTRODUCTION}
+      \field{year}{2016}
+    \endentry
+    \entry{dp2_diag}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4c36179caf58bca6f58f31007c3eca6d}{%
+           family={{Kikuchi}},
+           familyi={K\bibinitperiod},
+           given={Takashi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53b50960a53a74bd85c2ea33ee43a86b}{%
+           family={{Hashimoto}},
+           familyi={H\bibinitperiod},
+           given={Kumiko\bibnamedelima K.},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d140c71845df516d3601d31d1331a5d7}
+      \strng{fullhash}{d140c71845df516d3601d31d1331a5d7}
+      \strng{bibnamehash}{d140c71845df516d3601d31d1331a5d7}
+      \strng{authorbibnamehash}{d140c71845df516d3601d31d1331a5d7}
+      \strng{authornamehash}{d140c71845df516d3601d31d1331a5d7}
+      \strng{authorfullhash}{d140c71845df516d3601d31d1331a5d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{4}
+      \field{journaltitle}{Geoscience Letters}
+      \field{month}{12}
+      \field{title}{{Transmission of the electric fields to the low latitude ionosphere in the magnetosphere-ionosphere current circuit}}
+      \field{volume}{3}
+      \field{year}{2016}
+      \field{pages}{4}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s40562-016-0035-6
+      \endverb
+    \endentry
+    \entry{lenica}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3fe9e2fc9adb9f4bda8144803e995ff3}{%
+           family={Martínez-Bretón\bibnamedelima L.},
+           familyi={M\bibinithyphendelim B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a32abc628b4cc164dd9cced75ab75505}{%
+           family={Ortega},
+           familyi={O\bibinitperiod},
+           given={Blanca\bibnamedelima Mendoza},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=595f0fbf3159f60da03d5b8e9822d837}{%
+           family={Hernandez-Quintero},
+           familyi={H\bibinithyphendelim Q\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{109898cb12ee35735bd78fa491fc7ecf}
+      \strng{fullhash}{109898cb12ee35735bd78fa491fc7ecf}
+      \strng{bibnamehash}{109898cb12ee35735bd78fa491fc7ecf}
+      \strng{authorbibnamehash}{109898cb12ee35735bd78fa491fc7ecf}
+      \strng{authornamehash}{109898cb12ee35735bd78fa491fc7ecf}
+      \strng{authorfullhash}{109898cb12ee35735bd78fa491fc7ecf}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geofísica Internacional}
+      \field{month}{06}
+      \field{title}{Relationship between the minima of the horizontal magnetic component measured in Mexico and the Dst and SYM-H indices for geomagnetic storms with Dst≤ -100nT during the descending phase of solar cycle 23}
+      \field{volume}{55}
+      \field{year}{2016}
+      \field{pages}{155\bibrangedash 164}
+      \range{pages}{10}
+    \endentry
+    \entry{iono-resp2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7b5472e22ee47af3ce23cc51f8cbc5f3}{%
+           family={{Merline Matamba}},
+           familyi={M\bibinitperiod},
+           given={Tshimangadzo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=416ee81bfe7b122984b70ed40714b3f3}{%
+           family={{Habarulema}},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima Bosco},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7ac19645a85f8bc44521281b21eca89}{%
+           family={{Burešová}},
+           familyi={B\bibinitperiod},
+           given={Dalia},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fff902ceaac3c309641bdf471b88eb35}
+      \strng{fullhash}{fff902ceaac3c309641bdf471b88eb35}
+      \strng{bibnamehash}{fff902ceaac3c309641bdf471b88eb35}
+      \strng{authorbibnamehash}{fff902ceaac3c309641bdf471b88eb35}
+      \strng{authornamehash}{fff902ceaac3c309641bdf471b88eb35}
+      \strng{authorfullhash}{fff902ceaac3c309641bdf471b88eb35}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Space Weather}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Midlatitude ionospheric changes to four great geomagnetic storms of solar cycle 23 in Southern and Northern Hemispheres}}
+      \field{volume}{14}
+      \field{year}{2016}
+      \field{pages}{1155\bibrangedash 1171}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1002/2016SW001516
+      \endverb
+      \keyw{Geomagnetic storms,Ionospheric storms,midlatitude ionosphere}
+    \endentry
+    \entry{amorymazaudier_2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=2,uniquepart=given,hash=3e546e76f8365c685c880ddd71f93d0b}{%
+           family={{Amory-Mazaudier}},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=6cd7bc41d0382e494de20446aee25bb0}{%
+           family={{Bolaji}},
+           familyi={B\bibinitperiod},
+           given={O.\bibnamedelimi S.},
+           giveni={O\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f818aef84e7f274258bc77fa38cb8ead}{%
+           family={{Doumbia}},
+           familyi={D\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2ba2273d1c443713b8d9aa2c0596dbd5}
+      \strng{fullhash}{2ba2273d1c443713b8d9aa2c0596dbd5}
+      \strng{bibnamehash}{2ba2273d1c443713b8d9aa2c0596dbd5}
+      \strng{authorbibnamehash}{2ba2273d1c443713b8d9aa2c0596dbd5}
+      \strng{authornamehash}{2ba2273d1c443713b8d9aa2c0596dbd5}
+      \strng{authorfullhash}{2ba2273d1c443713b8d9aa2c0596dbd5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Geophysical Research (Space Physics)}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{{On the historical origins of the CEJ, DP2, and Ddyn current systems and their roles in the predictions of ionospheric responses to geomagnetic storms at equatorial latitudes}}
+      \field{volume}{122}
+      \field{year}{2017}
+      \field{pages}{7827\bibrangedash 7833}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1002/2017JA024132
+      \endverb
+      \keyw{counter electrojet,disturbance dynamo,prompt penetration of the magnetospheric convection electric field,geomagnetic field variations}
+    \endentry
+    \entry{gic}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=d4fd8fc8eae0fab70cdef8796a5c458c}{%
+           family={{Bailey}},
+           familyi={B\bibinitperiod},
+           given={Rachel\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bcf1563bc2c5a10068aa1f650ce60e0}{%
+           family={{Halbedl}},
+           familyi={H\bibinitperiod},
+           given={Thomas\bibnamedelima S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01557a1307be834045f6403d74e27ca5}{%
+           family={{Schattauer}},
+           familyi={S\bibinitperiod},
+           given={Ingrid},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d234c08321cfa733240bb09839b9666b}{%
+           family={{Römer}},
+           familyi={R\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=381838b026fb9277fe68e3f3a3e44ac8}{%
+           family={{Achleitner}},
+           familyi={A\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64155a7f5fa1513978b6e5a3adbfca29}{%
+           family={{Beggan}},
+           familyi={B\bibinitperiod},
+           given={Ciaran\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d515bef30ffe516ebc7ed80eee71e04}{%
+           family={{Wesztergom}},
+           familyi={W\bibinitperiod},
+           given={Viktor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=472601257a2e7ecbc29712f07e95c0be}{%
+           family={{Egli}},
+           familyi={E\bibinitperiod},
+           given={Ramon},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d53167e95edb5b81351bcc7b1783f0d}{%
+           family={{Leonhardt}},
+           familyi={L\bibinitperiod},
+           given={Roman},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c89d46dd43f3e64716f9f1d56ae1ced}
+      \strng{fullhash}{9c6dfdc4ebcf6a5707727bbba3ee04c3}
+      \strng{bibnamehash}{9c89d46dd43f3e64716f9f1d56ae1ced}
+      \strng{authorbibnamehash}{9c89d46dd43f3e64716f9f1d56ae1ced}
+      \strng{authornamehash}{9c89d46dd43f3e64716f9f1d56ae1ced}
+      \strng{authorfullhash}{9c6dfdc4ebcf6a5707727bbba3ee04c3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annales Geophysicae}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{{Modelling geomagnetically induced currents in midlatitude Central Europe using a thin-sheet approach}}
+      \field{volume}{35}
+      \field{year}{2017}
+      \field{pages}{751\bibrangedash 761}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.5194/angeo-35-751-2017
+      \endverb
+    \endentry
+    \entry{P-corona2}{article}{}
+      \name{author}{6}{ul=2}{%
+        {{un=0,uniquepart=base,hash=2baa4cb786ea056e15f75f6c0e58e093}{%
+           family={{Corona-Romero}},
+           familyi={C\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=df1f7a84f058ee1debf1747b4ccac91b}{%
+           family={{Sergeeva}},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=91f96cfc1b79585996574e7ba92e37f1}{%
+           family={{Gonzalez-Esparza}},
+           familyi={G\bibinitperiod},
+           given={J.A.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45ba7c7fdd02f60d00ddb1657f47070d}{%
+           family={{Cifuentes-Nava}},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05b33e3acf47c1a3b896a22102545eb0}{%
+           family={{Hernandez-Quintero}},
+           familyi={H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1587b0c6f4377684acbe2be508959458}{%
+           family={{Caccavari}},
+           familyi={C\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0,
+           suffix={A.\bibnamedelimi {Sanchez-Garcia}},
+           suffixi={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{location}{1}{%
+        {Queretaro, Mexico}%
+      }
+      \strng{namehash}{cf7450e03378faa89516e6ac514011d1}
+      \strng{fullhash}{ccc18577873ee39bfda3be6bdd47947f}
+      \strng{bibnamehash}{cf7450e03378faa89516e6ac514011d1}
+      \strng{authorbibnamehash}{cf7450e03378faa89516e6ac514011d1}
+      \strng{authornamehash}{cf7450e03378faa89516e6ac514011d1}
+      \strng{authorfullhash}{ccc18577873ee39bfda3be6bdd47947f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Latinmag Letters}
+      \field{series}{Proceedings of the Fifth Biennial Meeting of Latinmag}
+      \field{title}{MEXICAN GEOMAGNETIC K INDEX}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{esmeralda}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=7ea66a3ec61f8ad1d7fb7fe63db769e8}{%
+           family={{Romero-Hernandez}},
+           familyi={R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91f96cfc1b79585996574e7ba92e37f1}{%
+           family={{Gonzalez-Esparza}},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e6de41788ef8aaf1592f27dfce5f3d3}{%
+           family={{Rodriguez-Martinez}},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd0ecf1dfa8d1f3393f1d227c1cc8be0}{%
+           family={{Sergeeva}},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=681aadfa34f2c2c40ee3534bc3564410}{%
+           family={{Aguilar-Rodriguez}},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b84c2a9bddd2d1d1195c76d508af9925}{%
+           family={{Mejia-Ambriz}},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6b339562cf18939fa0dbe8794be9e5a}{%
+           family={{De la Luz}},
+           familyi={D\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{207f5dd55bf5ef379a0bc7758c64ded4}
+      \strng{fullhash}{791a4e077ffa8b694fc9de6117a0c25f}
+      \strng{bibnamehash}{207f5dd55bf5ef379a0bc7758c64ded4}
+      \strng{authorbibnamehash}{207f5dd55bf5ef379a0bc7758c64ded4}
+      \strng{authornamehash}{207f5dd55bf5ef379a0bc7758c64ded4}
+      \strng{authorfullhash}{791a4e077ffa8b694fc9de6117a0c25f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Space Research}
+      \field{month}{10}
+      \field{number}{8}
+      \field{title}{{Study of ionospheric disturbances over Mexico associated with transient space weather events}}
+      \field{volume}{60}
+      \field{year}{2017}
+      \field{pages}{1838\bibrangedash 1849}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.asr.2017.06.042
+      \endverb
+      \keyw{Ionospheric disturbances,Daytime ionospheric scintillation,Geomagnetic storms,Solar flares}
+    \endentry
+    \entry{dramaria_1}{article}{}
+      \name{author}{5}{ul=2}{%
+        {{un=1,uniquepart=given,hash=dd0ecf1dfa8d1f3393f1d227c1cc8be0}{%
+           family={{Sergeeva}},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=69c3125da2de0a73270b3d4fdc808ef5}{%
+           family={{Maltseva}},
+           familyi={M\bibinitperiod},
+           given={O.\bibnamedelimi A.},
+           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91f96cfc1b79585996574e7ba92e37f1}{%
+           family={{Gonzalez-Esparza}},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6b339562cf18939fa0dbe8794be9e5a}{%
+           family={{De la Luz}},
+           familyi={D\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2baa4cb786ea056e15f75f6c0e58e093}{%
+           family={{Corona-Romero}},
+           familyi={C\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{530a14cabeb43ae3eaa42da88ef58ff6}
+      \strng{fullhash}{20a74c396c34d423a783a0f66c697871}
+      \strng{bibnamehash}{530a14cabeb43ae3eaa42da88ef58ff6}
+      \strng{authorbibnamehash}{530a14cabeb43ae3eaa42da88ef58ff6}
+      \strng{authornamehash}{530a14cabeb43ae3eaa42da88ef58ff6}
+      \strng{authorfullhash}{20a74c396c34d423a783a0f66c697871}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Space Research}
+      \field{month}{10}
+      \field{number}{8}
+      \field{title}{{Features of TEC behaviour over the low-latitude North-American region during the period of medium solar activity}}
+      \field{volume}{60}
+      \field{year}{2017}
+      \field{pages}{1594\bibrangedash 1605}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.asr.2017.06.021
+      \endverb
+      \keyw{Mid-latitude and low-latitude ionosphere,Ionospheric disturbances,TEC,foF2,Space Weather,GNSS networks}
+    \endentry
+    \entry{P-corona1}{inproceedings}{}
+      \name{author}{11}{ul=2}{%
+        {{un=0,uniquepart=base,hash=2baa4cb786ea056e15f75f6c0e58e093}{%
+           family={{Corona-Romero}},
+           familyi={C\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8aed93122d661019be1872034f9d96db}{%
+           family={{Sanchez-Garcia}},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df1f7a84f058ee1debf1747b4ccac91b}{%
+           family={{Sergeeva}},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91f96cfc1b79585996574e7ba92e37f1}{%
+           family={{Gonzalez-Esparza}},
+           familyi={G\bibinitperiod},
+           given={J.A.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45ba7c7fdd02f60d00ddb1657f47070d}{%
+           family={{Cifuentes-Nava}},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05b33e3acf47c1a3b896a22102545eb0}{%
+           family={{Hernandez-Quintero}},
+           familyi={H\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=779726442aa950c7709f4d0fcde64ebd}{%
+           family={{Caccavari}},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=681aadfa34f2c2c40ee3534bc3564410}{%
+           family={{Aguilar-Rodriguez}},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9dedc0a83f3fa81e720f0ea15df653d}{%
+           family={{Mejía-Ambriz}},
+           familyi={M\bibinitperiod},
+           given={J.C.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a43c597b2fe0995f63f15d8250b9af7}{%
+           family={{de-la-Luz}},
+           familyi={L\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9157a2a0d1e433d74c0cc182f44dc52f}{%
+           family={{Gonzalez}},
+           familyi={G\bibinitperiod},
+           given={L.X.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Basouras, Brazil}%
+      }
+      \strng{namehash}{e1e5f3f4d0e73588ace06370e3098972}
+      \strng{fullhash}{ebcae041bdd968da9051e0ad1fd5f331}
+      \strng{bibnamehash}{e1e5f3f4d0e73588ace06370e3098972}
+      \strng{authorbibnamehash}{e1e5f3f4d0e73588ace06370e3098972}
+      \strng{authornamehash}{e1e5f3f4d0e73588ace06370e3098972}
+      \strng{authorfullhash}{ebcae041bdd968da9051e0ad1fd5f331}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the II Pan-American Workshopon Geomagnetism}
+      \field{title}{Kmex: the Mexican Geomagnetic K Index}
+      \field{year}{2018}
+      \field{pages}{96\bibrangedash 100}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.29327/2pangeo.a29
+      \endverb
+    \endentry
+    \entry{WHITAKER2018}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=762462d3e11614bf0f254cd4690687f9}{%
+           family={Whitaker},
+           familyi={W\bibinitperiod},
+           given={Darren\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d76a3fd1b51e3e85e194563067fd6b2a}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d5b00b06d59a5ed37dfeb524e30fcc65}
+      \strng{fullhash}{d5b00b06d59a5ed37dfeb524e30fcc65}
+      \strng{bibnamehash}{d5b00b06d59a5ed37dfeb524e30fcc65}
+      \strng{authorbibnamehash}{d5b00b06d59a5ed37dfeb524e30fcc65}
+      \strng{authornamehash}{d5b00b06d59a5ed37dfeb524e30fcc65}
+      \strng{authorfullhash}{d5b00b06d59a5ed37dfeb524e30fcc65}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0169-7439}
+      \field{journaltitle}{Chemometrics and Intelligent Laboratory Systems}
+      \field{title}{A simple algorithm for despiking Raman spectra}
+      \field{volume}{179}
+      \field{year}{2018}
+      \field{pages}{82\bibrangedash 84}
+      \range{pages}{3}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.chemolab.2018.06.009
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0169743918301758
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0169743918301758
+      \endverb
+      \keyw{Modified Z-scores,Data processing,Raman spectra,Despiking}
+    \endentry
+    \entry{dramaria7}{article}{}
+      \name{author}{15}{ul=2}{%
+        {{un=1,uniquepart=given,hash=dd0ecf1dfa8d1f3393f1d227c1cc8be0}{%
+           family={{Sergeeva}},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=91f96cfc1b79585996574e7ba92e37f1}{%
+           family={{Gonzalez-Esparza}},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=4d240328124577304f3f7668b3a4779f}{%
+           family={{Blagoveshchensky}},
+           familyi={B\bibinitperiod},
+           given={D.\bibnamedelimi V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69c3125da2de0a73270b3d4fdc808ef5}{%
+           family={{Maltseva}},
+           familyi={M\bibinitperiod},
+           given={O.\bibnamedelimi A.},
+           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3eedba6af9c090a4e093eb5df9437f4}{%
+           family={{Chernov}},
+           familyi={C\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2baa4cb786ea056e15f75f6c0e58e093}{%
+           family={{Corona-Romero}},
+           familyi={C\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6b339562cf18939fa0dbe8794be9e5a}{%
+           family={{De la Luz}},
+           familyi={D\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b84c2a9bddd2d1d1195c76d508af9925}{%
+           family={{Mejia-Ambriz}},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9157a2a0d1e433d74c0cc182f44dc52f}{%
+           family={{Gonzalez}},
+           familyi={G\bibinitperiod},
+           given={L.\bibnamedelimi X.},
+           giveni={L\bibinitperiod\bibinitdelim X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ea66a3ec61f8ad1d7fb7fe63db769e8}{%
+           family={{Romero-Hernandez}},
+           familyi={R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e6de41788ef8aaf1592f27dfce5f3d3}{%
+           family={{Rodriguez-Martinez}},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=681aadfa34f2c2c40ee3534bc3564410}{%
+           family={{Aguilar-Rodriguez}},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b71dd651498063a433a67d33179fde15}{%
+           family={{Andrade}},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75a36fc60cb4e08b62dd0265013482ad}{%
+           family={{Villanueva}},
+           familyi={V\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a79a1d4e5a711575a15c735178908202}{%
+           family={{Gatica-Acevedo}},
+           familyi={G\bibinitperiod},
+           given={V.\bibnamedelimi J.},
+           giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dcd3544182406accad6ef714b58207f7}
+      \strng{fullhash}{fba5b95865f7eebbdbf55f47239342c9}
+      \strng{bibnamehash}{dcd3544182406accad6ef714b58207f7}
+      \strng{authorbibnamehash}{dcd3544182406accad6ef714b58207f7}
+      \strng{authornamehash}{dcd3544182406accad6ef714b58207f7}
+      \strng{authorfullhash}{fba5b95865f7eebbdbf55f47239342c9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Results in Physics}
+      \field{month}{3}
+      \field{title}{{First observations of oblique ionospheric sounding chirp signal in Mexico}}
+      \field{volume}{12}
+      \field{year}{2019}
+      \field{pages}{1002\bibrangedash 1003}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1016/j.rinp.2018.12.077
+      \endverb
+      \keyw{Oblique ionospheric sounding,MOF,Mexico}
+    \endentry
+    \entry{ionos1}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=297f1349582ee084b11e85a4996dbbf3}{%
+           family={{Akala}},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi O.},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48f49f83cdacb55a15c317ccc25d6f23}{%
+           family={{Oyeyemi}},
+           familyi={O\bibinitperiod},
+           given={E.\bibnamedelimi O.},
+           giveni={E\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50a4595398edc4f66bad94729cccbe53}{%
+           family={{Amaechi}},
+           familyi={A\bibinitperiod},
+           given={P.\bibnamedelimi O.},
+           giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3aeebc4b0109d313f6f141e59efd7389}{%
+           family={{Radicella}},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c53380cbd655eb7c6315f3d0ebd17bfc}{%
+           family={{Nava}},
+           familyi={N\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e546e76f8365c685c880ddd71f93d0b}{%
+           family={{Amory-Mazaudier}},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{82bcc219537c481e819649f7862d37af}
+      \strng{fullhash}{c8c6523a31f4a711aa4e6dfc83a34d4e}
+      \strng{bibnamehash}{82bcc219537c481e819649f7862d37af}
+      \strng{authorbibnamehash}{82bcc219537c481e819649f7862d37af}
+      \strng{authornamehash}{82bcc219537c481e819649f7862d37af}
+      \strng{authorfullhash}{c8c6523a31f4a711aa4e6dfc83a34d4e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{e27963}
+      \field{journaltitle}{Journal of Geophysical Research (Space Physics)}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{{Longitudinal Responses of the Equatorial/Low-Latitude Ionosphere Over the Oceanic Regions to Geomagnetic Storms of May and September 2017}}
+      \field{volume}{125}
+      \field{year}{2020}
+      \field{pages}{e27963}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1029/2020JA027963
+      \endverb
+      \keyw{geomagnetic storms,ionospheric irregularities,total electron content,storm time electric fields}
+    \endentry
+    \entry{amory2020_filtros}{article}{}
+      \name{author}{4}{}{%
+        {{un=2,uniquepart=given,hash=cc381c916d5b899c4a2dce8edc920e57}{%
+           family={{Younas}},
+           familyi={Y\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=3e546e76f8365c685c880ddd71f93d0b}{%
+           family={{Amory-Mazaudier}},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c88f17505394e16dd553c20cc52fabf}{%
+           family={{Khan}},
+           familyi={K\bibinitperiod},
+           given={Majid},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e9e316309480f134adb0b9e93473f32}{%
+           family={{Fleury}},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ac824bd9e74be4f8b6b6a202053f9830}
+      \strng{fullhash}{5ac4e05d8026fd15bbc0b5ad83d1f36d}
+      \strng{bibnamehash}{ac824bd9e74be4f8b6b6a202053f9830}
+      \strng{authorbibnamehash}{ac824bd9e74be4f8b6b6a202053f9830}
+      \strng{authornamehash}{ac824bd9e74be4f8b6b6a202053f9830}
+      \strng{authorfullhash}{5ac4e05d8026fd15bbc0b5ad83d1f36d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{e27981}
+      \field{journaltitle}{Journal of Geophysical Research (Space Physics)}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{{Ionospheric and Magnetic Signatures of a Space Weather Event on 25-29 August 2018: CME and HSSWs}}
+      \field{volume}{125}
+      \field{year}{2020}
+      \field{pages}{e27981}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1029/2020JA027981
+      \endverb
+    \endentry
+    \entry{idx}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d5ec761fedd11cdbac8f9201304fd8c6}{%
+           family={IAGA},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5ec761fedd11cdbac8f9201304fd8c6}
+      \strng{fullhash}{d5ec761fedd11cdbac8f9201304fd8c6}
+      \strng{bibnamehash}{d5ec761fedd11cdbac8f9201304fd8c6}
+      \strng{authorbibnamehash}{d5ec761fedd11cdbac8f9201304fd8c6}
+      \strng{authornamehash}{d5ec761fedd11cdbac8f9201304fd8c6}
+      \strng{authorfullhash}{d5ec761fedd11cdbac8f9201304fd8c6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{International Service of Geomagnetic Indices}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb http://isgi.unistra.fr/data_download.php
+      \endverb
+      \verb{url}
+      \verb http://isgi.unistra.fr/data_download.php
+      \endverb
+      \keyw{Geomagnetic Index}
+    \endentry
+    \entry{2021amory}{article}{}
+      \name{author}{4}{}{%
+        {{un=2,uniquepart=given,hash=2320cc781a004df36b5053bc250b4592}{%
+           family={{Younas}},
+           familyi={Y\bibinitperiod},
+           given={Waqar},
+           giveni={W\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=3e546e76f8365c685c880ddd71f93d0b}{%
+           family={{Amory-Mazaudier}},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c88f17505394e16dd553c20cc52fabf}{%
+           family={{Khan}},
+           familyi={K\bibinitperiod},
+           given={Majid},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a2d8b1bf4f3bc2a276317bc40fc3d68}{%
+           family={{Le Huy}},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{183e9a3d5089ce4ffe7571ab06dc0d6b}
+      \strng{fullhash}{60170cbf6c71e1f097befcb0f130ca4e}
+      \strng{bibnamehash}{183e9a3d5089ce4ffe7571ab06dc0d6b}
+      \strng{authorbibnamehash}{183e9a3d5089ce4ffe7571ab06dc0d6b}
+      \strng{authornamehash}{183e9a3d5089ce4ffe7571ab06dc0d6b}
+      \strng{authorfullhash}{60170cbf6c71e1f097befcb0f130ca4e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{e02825}
+      \field{journaltitle}{Space Weather}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{{Magnetic Signatures of Ionospheric Disturbance Dynamo for CME and HSSWs Generated Storms}}
+      \field{volume}{19}
+      \field{year}{2021}
+      \field{pages}{e02825}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1029/2021SW002825
+      \endverb
+    \endentry
+    \entry{phdthesis_ramon}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8bf88d190ac8e3550bed858ae2ee2c8a}{%
+           family={Caraballo},
+           familyi={C\bibinitperiod},
+           given={Ramon},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8bf88d190ac8e3550bed858ae2ee2c8a}
+      \strng{fullhash}{8bf88d190ac8e3550bed858ae2ee2c8a}
+      \strng{bibnamehash}{8bf88d190ac8e3550bed858ae2ee2c8a}
+      \strng{authorbibnamehash}{8bf88d190ac8e3550bed858ae2ee2c8a}
+      \strng{authornamehash}{8bf88d190ac8e3550bed858ae2ee2c8a}
+      \strng{authorfullhash}{8bf88d190ac8e3550bed858ae2ee2c8a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{IMPACTO DEL CLIMA ESPACIAL EN EL SISTEMA ELÉCTRICO NACIONAL DE MÉXICO}
+      \field{type}{phdthesis}
+      \field{year}{2022}
+    \endentry
+    \entry{tesis_yo}{masterthesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=27f13389f1d43740e0c64f9f528fa758}{%
+           family={Castellanos-Velazco},
+           familyi={C\bibinithyphendelim V\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Nacional Autónoma de México, Programa de Posgrado en Ciencias de la Tierra, Instituto de Geofísica Unidad Morelia}%
+      }
+      \strng{namehash}{27f13389f1d43740e0c64f9f528fa758}
+      \strng{fullhash}{27f13389f1d43740e0c64f9f528fa758}
+      \strng{bibnamehash}{27f13389f1d43740e0c64f9f528fa758}
+      \strng{authorbibnamehash}{27f13389f1d43740e0c64f9f528fa758}
+      \strng{authornamehash}{27f13389f1d43740e0c64f9f528fa758}
+      \strng{authorfullhash}{27f13389f1d43740e0c64f9f528fa758}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Manifestaciones regionales de tormentas geomagnéticas ocurridas durante los ciclos solares 23 y 24}
+      \field{year}{2022}
+    \endentry
+    \entry{removing_with_Whitaker-Hayes}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8f89ad176752f0a11c6745108e5cc63d}{%
+           family={{Coca}},
+           familyi={C\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f89ad176752f0a11c6745108e5cc63d}
+      \strng{fullhash}{8f89ad176752f0a11c6745108e5cc63d}
+      \strng{bibnamehash}{8f89ad176752f0a11c6745108e5cc63d}
+      \strng{authorbibnamehash}{8f89ad176752f0a11c6745108e5cc63d}
+      \strng{authornamehash}{8f89ad176752f0a11c6745108e5cc63d}
+      \strng{authorfullhash}{8f89ad176752f0a11c6745108e5cc63d}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed = 2023-11-10}
+      \field{title}{{Removing Spikes from Raman Spectra with Anomaly Detection: Whitaker-Hayes algorithm in Python}}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/removing-spikes-from-raman-spectra-8a9fdda0ac22
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/removing-spikes-from-raman-spectra-8a9fdda0ac22
+      \endverb
+    \endentry
+    \entry{brief_overview_outlier-detection}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b29050d1dfb2cd14911c862e1647c949}{%
+           family={{Santoyo}},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b29050d1dfb2cd14911c862e1647c949}
+      \strng{fullhash}{b29050d1dfb2cd14911c862e1647c949}
+      \strng{bibnamehash}{b29050d1dfb2cd14911c862e1647c949}
+      \strng{authorbibnamehash}{b29050d1dfb2cd14911c862e1647c949}
+      \strng{authornamehash}{b29050d1dfb2cd14911c862e1647c949}
+      \strng{authorfullhash}{b29050d1dfb2cd14911c862e1647c949}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed = 2023-11-10}
+      \field{title}{{A Brief Overview of Outlier Detection Techniques}}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561
+      \endverb
+    \endentry
+    \entry{Dealing_with_outliers}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c89219757a11b4d07a88e360990840a4}{%
+           family={{Aman Preet Gulati }},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c89219757a11b4d07a88e360990840a4}
+      \strng{fullhash}{c89219757a11b4d07a88e360990840a4}
+      \strng{bibnamehash}{c89219757a11b4d07a88e360990840a4}
+      \strng{authorbibnamehash}{c89219757a11b4d07a88e360990840a4}
+      \strng{authornamehash}{c89219757a11b4d07a88e360990840a4}
+      \strng{authorfullhash}{c89219757a11b4d07a88e360990840a4}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed = 2023-11-10}
+      \field{title}{Dealing with outliers using the Z-Score method}
+      \field{year}{Updated On September 2nd, 2022}
+      \verb{urlraw}
+      \verb https://www.analyticsvidhya.com/blog/2022/08/dealing-with-outliers-using-the-z-score-method/
+      \endverb
+      \verb{url}
+      \verb https://www.analyticsvidhya.com/blog/2022/08/dealing-with-outliers-using-the-z-score-method/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
