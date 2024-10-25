@@ -89,14 +89,14 @@ Estas tendencias son consistentes con los índices de correlación, siendo $R^2=
 
 \section{Identificación de firmas magnéticas}
 
-Los valores locales del CMT resultan del efecto combinado de diferentes fuentes que contribuyen al campo total \cite{iaga_guide, 1969intro_to_iono_p, l_handbook_geof_sw_Geom_field, baseline_Gjerloev, vanKampt}. Estas fuentes contribuyen a la componente H del CMT local, lo cual puede expresarse como:
+Los valores locales del CMT resultan del efecto combinado de diferentes fuentes que contribuyen al campo total \parencite{iaga_guide, 1969intro_to_iono_p, l_handbook_geof_sw_Geom_field, baseline_Gjerloev, vanKampt}. Estas fuentes contribuyen a la componente H del CMT local, lo cual puede expresarse como:
 
 \begin{equation}
     \label{eq:1}
         H = H_{SQ} + H_0 + D_{M} + D_{I},
 \end{equation}
 
-donde $H_{SQ}$ representa la variación diurna derivada de los días quietos locales \cite{vanKampt}, mientras que $H_0$ representa las variaciones día a día \cite{baseline_Gjerloev}. Los últimos términos representan las perturbaciones asociadas con la TG y representan la contribución de las corrientes magnetosféricas e ionosféricas respectivamente \cite{ddyn2005, angeoddyn}. La contribución de $D_M$ para latitudes geomagnéticas medias y bajas puede aproximarse de la siguiente forma $Dst \cdot \cos(\lambda)$, donde $\lambda$ es la latitud geomagnética de donde fueron tomados los datos \cite{amorymazaudier_2017}. 
+donde $H_{SQ}$ representa la variación diurna derivada de los días quietos locales \cite{vanKampt}, mientras que $H_0$ representa las variaciones día a día \parencite{baseline_Gjerloev}. Los últimos términos representan las perturbaciones asociadas con la TG y representan la contribución de las corrientes magnetosféricas e ionosféricas respectivamente \parencite{ddyn2005, angeoddyn}. La contribución de $D_M$ para latitudes geomagnéticas medias y bajas puede aproximarse de la siguiente forma $Dst \cdot \cos(\lambda)$, donde $\lambda$ es la latitud geomagnética de donde fueron tomados los datos \parencite{amorymazaudier_2017}. 
 \vspace{1 em}
 
 Considerando lo mencionado en secciones anteriores, la contribución de interés es la asociada con mecanismos ionosféricos o $D_I$, por lo que el siguiente paso es simplemente aislarlo del resto de contribuciones magnéticas. Para ello, a partir de la expresión \ref{eq:1}:
@@ -115,7 +115,7 @@ Además, de acuerdo con \cite{ddyn2005, angeoddyn}, en latitudes medias y bajas,
 donde $H_{otras}$ se refiere a cualquier otra perturbación de origen ionosférico, diferente de \emph{Ddyn} y \emph{DP2}.
 \vspace{1 em}
 
-Para aislar de forma efectiva las firmas magnéticas atribuidas a $H_{Ddyn}$ y a $H_{DP2}$ en las ecuaciones \ref{eq:diono} y \ref{eq:diono_explicit}, se empleó de forma inicial un filtro de frecuencias para analizar $D_I$ \cite{amory2020_filtros}. Estos filtros fueron diseñados de acuerdo con los rangos de frecuencias (periodos) en que las corrientes \emph{Ddyn} y \emph{DP2} ocasionan fluctuaciones en las observaciones locales del CMT \cite{nishida_68_fluctuations, blanc_ddyn, ddyn_diag2}. En el caso de \emph{Ddyn}, se trata de filtros pasa-bandas entorno a las 24h, mientras que para \emph{DP2} se usa un filtro pasa-altas, para periodos de fluctuación menores de 4h. 
+Para aislar de forma efectiva las firmas magnéticas atribuidas a $H_{Ddyn}$ y a $H_{DP2}$ en las ecuaciones \ref{eq:diono} y \ref{eq:diono_explicit}, se empleó de forma inicial un filtro de frecuencias para analizar $D_I$ \parencite{amory2020_filtros}. Estos filtros fueron diseñados de acuerdo con los rangos de frecuencias (periodos) en que las corrientes \emph{Ddyn} y \emph{DP2} ocasionan fluctuaciones en las observaciones locales del CMT \parencite{nishida_68_fluctuations, blanc_ddyn, ddyn_diag2}. En el caso de \emph{Ddyn}, se trata de filtros pasa-bandas entorno a las 24h, mientras que para \emph{DP2} se usa un filtro pasa-altas, para periodos de fluctuación menores de 4h. 
 
 \subsection{Resultados, resolución: 1 h}
 \label{resultados}
@@ -138,7 +138,7 @@ En la Figura \ref{fig:iono_resp}(c) se presentan los perfiles de las perturbacio
 %El procedimiento previamente mostrado fue aplicado a los 20 casos de estudio usando datos de TEO. En las Figuras \ref{fig:iono_resp2} y \ref{fig:iono_resp3} del apéndice, se muestran los perfiles calculados de $D_I$, así como los perfiles de \emph{Ddyn} y \emph{DP2} de cada evento mostrado en la Tabla \ref{table1:GS_descp}. Al observar cada evento, se resaltan sus particularidades individuales, las cuales son evidentes en los perfiles de $D_I$ y sus perturbaciones magnéticas asociadas con \emph{Ddyn} y \emph{DP2}.
 %\vspace{1 em}
 
-A partir de las observaciones de los 20 eventos de la Tabla \ref{table1:GS_descp}, se encontró que generalmente, la amplitud de las oscilaciones magnéticas inducidas por \emph{Ddyn} son más intensas que aquellas inducidas por \emph{DP2}. Esto sugiere que, en la mayoría de los casos, los efectos de inducción magnética de \emph{Ddyn} son dominantes en el CMT local. Aunque también hay eventos para los cuales ambos efectos tienen intensidades similares. Se piensa en dos posibilidades para explicar estos resultados: El primero, es el mecanismo que desencadena la TG en sí, \emph{i.t.} y su reconexión magnética con el CMT. Esto puede afectar la evolución de la respuesta ionosférica, modificando directamente la evolución de las corrientes \emph{Ddyn} y \emph{DP2}. En segundo lugar, se debe considerar que los datos usados en un inicio tienen una resolución de 1h. En este caso, el muestreo de datos representa una limitación importante ya que las fluctuaciones magnéticas ocasionadas por \emph{DP2}, tal y como se menciona el \cite{nishida_68_fluctuations}, pueden tener periodos de menos de una hora hasta incluso unas poca decenas de minutos. En este escenario, es posible que se pierdan parte de las fluctuaciones más significativas inducidas por \emph{DP2}. Esto se puede resolver al usar datos del índice $SYM-H$ en vez de $Dst$, así como datos locales de 1 minuto de resolución, caso del cual se estará hablando en la sección \ref{PSD2}. 
+A partir de las observaciones de los 20 eventos de la Tabla \ref{table1:GS_descp}, se encontró que generalmente, la amplitud de las oscilaciones magnéticas inducidas por \emph{Ddyn} son más intensas que aquellas inducidas por \emph{DP2}. Esto sugiere que, en la mayoría de los casos, los efectos de inducción magnética de \emph{Ddyn} son dominantes en el CMT local. Aunque también hay eventos para los cuales ambos efectos tienen intensidades similares. Se piensa en dos posibilidades para explicar estos resultados: El primero, es el mecanismo que desencadena la TG en sí, \emph{i.t.} y su reconexión magnética con el CMT. Esto puede afectar la evolución de la respuesta ionosférica, modificando directamente la evolución de las corrientes \emph{Ddyn} y \emph{DP2}. En segundo lugar, se debe considerar que los datos usados en un inicio tienen una resolución de 1h. En este caso, el muestreo de datos representa una limitación importante ya que las fluctuaciones magnéticas ocasionadas por \emph{DP2}, tal y como se menciona en \cite{nishida_68_fluctuations}, pueden tener periodos de menos de una hora hasta incluso unas poca decenas de minutos. En este escenario, es posible que se pierdan parte de las fluctuaciones más significativas inducidas por \emph{DP2}. Esto se puede resolver al usar datos del índice $SYM-H$ en vez de $Dst$, así como datos locales de 1 minuto de resolución, caso del cual se estará hablando en la sección \ref{PSD2}. 
 \vspace{1 em}
 
 \section{Validación de resultados} \label{validacion}
@@ -218,7 +218,7 @@ Se puede observar un fenómeno interesante entre $a1$ y $a2$ (en la banda de per
 
 \begin{figure}
     \centering
-     \includegraphics[width=0.7\textwidth]{Images/cap3/powerlaw/diono_PWS_powerL_2023-02-25.eps}
+     \includegraphics[width=0.65\textwidth]{Images/cap3/powerlaw/diono_PWS_powerL_2023-02-25.eps}
       \caption{Espectro de potencia (linea negra), considerando para la serie de tiempo removiendo el efecto $H_{SQ}$ (arriba) y sin removerlo (abajo). Las líneas rojas representan las leyes de potencia asociadas con \emph{Ddyn} (a1) y \emph{DP2} (a2). Las regiones gris oscuro y gris claro resaltan los anchos de banda que abarcan estas leyes de potencia.}
        \label{fig:powerlaw}
 \end{figure}
