@@ -39,7 +39,7 @@
 %\usepackage[round]{natbib}
 \usepackage{linguex}
 
-\usepackage[backend=biber, style=authoryear, sorting=ynt, sortcites, encoding=utf8]{biblatex}
+\usepackage[backend=biber, style=authoryear, sorting=ynt, sortcites]{biblatex}
 \addbibresource{predoc.bib}
 \usepackage{endnotes}
 %\renewcommand\cftsecpresnum{\S}
@@ -75,7 +75,7 @@
 \begin{document}
 
 \frontmatter
-\include{Pretexto/portada}
+%\include{Pretexto/portada}
 \include{Pretexto/frontmater}
 
 \mainmatter
@@ -83,20 +83,6 @@
 \include{Ch2/ch2}
 \include{Ch3/ch3}
 
-
+\backmatter
 \printbibliography
-%\addbibresource{library.bib}
-
-
-%\bibliographystyle{apacite}
-
-%\bibliography{References/predoc.bib}
-%\printbibliography
-%\newrefcontext[sorting=nty]
-
-
-
-\backmatter%@sglvgdor
-
-
 \end{document}
